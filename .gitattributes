@@ -1,0 +1,2 @@
+*.elps filter=lfs diff=lfs merge=lfs -text
+*.elpx filter=lfs diff=lfs merge=lfs -text
